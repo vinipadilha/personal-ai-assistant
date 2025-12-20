@@ -43,7 +43,7 @@ Follow these steps to set up the Personal AI Assistant:
 
 1. **Clone the repository:**
    ```bash
-   git clone [repository-url]
+   git clone https://github.com/vinipadilha/personal-ai-assistant.git
    ```
 
 2. **Navigate to the project directory:**
@@ -227,15 +227,12 @@ Contributions are welcome! Feel free to:
 - Submit pull requests
 - Improve documentation
 
-## License
 
-[Specify your license here]
 
 ## Support
 
 For issues, questions, or suggestions:
 - Open an issue on GitHub
-- Contact: [your-contact-info]
 
 ## Acknowledgments
 
